@@ -17,8 +17,8 @@ No corrente ano lectivo, o endereço da área moodle dedicado a esta UC é [a de
 ## Portfolio
 
 De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o portfolio da Unidade Curricular:
-- Relatório de Análise ([Relatório 1]("./Relat%C3%B3rio%201"))
-- Relatório de Síntese ([Relatório 2]("./Relat%C3%B3rio%202"))
+- Relatório de Análise ([Relatório 1](./Relat%C3%B3rio%201))
+- Relatório de Síntese ([Relatório 2](./Relat%C3%B3rio%202))
 
 Maia, 23 de Setembro de 2023
 Pedro Pimenta
