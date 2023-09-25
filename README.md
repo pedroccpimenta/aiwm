@@ -11,7 +11,7 @@ A Ficha Curricular está disponível [neste link](https://docs.google.com/docume
 ## Plataforma Moodle
 
 A plataforma Moodle é uma componente essencial no funcionamento desta UC, uma vez que so Relatórios são entregues aí.
-No corrente ano lectivo, o endereço da área moodle dedicado a esta UC é [a definir](xxxxxxxxxxxxxx). 
+No corrente ano lectivo, o endereço da área moodle dedicado a esta UC é [https://moodle.maieutica.pt/course/view.php?id=18701](https://moodle.maieutica.pt/course/view.php?id=18701). 
 
 
 ## Portfolio
