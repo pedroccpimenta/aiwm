@@ -20,5 +20,11 @@ De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o p
 - Relatório de Análise ([Relatório 1](./Relat%C3%B3rio%201))
 - Relatório de Síntese ([Relatório 2](./Relat%C3%B3rio%202))
 
-Maia, 23 de Setembro de 2023
+## Exames de Anos anteriores
+
+De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o exame do ano anterior:
+- [Parte Teórico-prática]("./Exames/Exame 16Jan2023 (teo-prat).pdf")
+- [Parte Prática]("./Exames/Exame 16Jan2023 (pratica).pdf")
+
+Maia, 13 de Outubro de 2023
 Pedro Pimenta
