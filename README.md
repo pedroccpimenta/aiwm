@@ -23,8 +23,8 @@ De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o p
 ## Exames de Anos anteriores
 
 De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o exame do ano anterior:
-- [Parte Teórico-prática]("./Exames/Exame 16Jan2023 (teo-prat).pdf")
-- [Parte Prática]("./Exames/Exame 16Jan2023 (pratica).pdf")
+- [Parte Teórico-prática](./Exames/Exame%2016Jan2023%20(teo-prat).pdf')
+- [Parte Prática](./Exames/Exame%2016Jan2023%20(pratica).pdf)
 
 Maia, 13 de Outubro de 2023
 Pedro Pimenta
