@@ -26,7 +26,7 @@ De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o e
 - [Parte Teórico-prática](./Exames/Exame%2016Jan2023%20(teo-prat).pdf)
 - [Parte Prática](./Exames/Exame%2016Jan2023%20(pratica).pdf)
 
-## Exames de Anos anteriores
+## Slides
 Slides utilizados nas aulas: [aiwm.pptx](./AIWM.pptx)
 **Nota**: A consulta destes slides não dispensa a leitura e estudo das Referências Bibliográficas desta Unidade Curricular (cf. [Ficha Curricular](https://docs.google.com/document/d/1RZDl0Nfi6mycDynmVgwBAut_lqBf9s7sF1PiAQs7gMo/edit))
 
