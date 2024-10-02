@@ -5,13 +5,13 @@ Este repositório suporta a Unidade Curricular´(UC) "61149 - Arquitetura de Inf
 
 ## Ficha Curricular
 
-A Ficha Curricular está disponível [neste link](https://docs.google.com/document/d/1RZDl0Nfi6mycDynmVgwBAut_lqBf9s7sF1PiAQs7gMo/edit). 
+A Ficha Curricular está disponível [neste link](https://docs.google.com/document/d/1fhE79-4ilop4PHRKI3yc1ZhUR9deNRZ2lC-mbpGTrB0/edit). 
 
 
 ## Plataforma Moodle
 
 A plataforma Moodle é uma componente essencial no funcionamento desta UC, uma vez que so Relatórios são entregues aí.
-No corrente ano lectivo, o endereço da área moodle dedicado a esta UC é [https://moodle.maieutica.pt/course/view.php?id=18701](https://moodle.maieutica.pt/course/view.php?id=18701). 
+No corrente ano lectivo, o endereço da área moodle dedicado a esta UC é [https://moodle.maieutica.pt/course/view.php?id=20548](https://moodle.maieutica.pt/course/view.php?id=20548). 
 
 
 ## Portfolio
@@ -28,9 +28,9 @@ De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o e
 
 ## Slides
 Slides utilizados nas aulas: [aiwm.pptx](./AIWM.pptx)
-**Nota**: A consulta destes slides não dispensa a leitura e estudo das Referências Bibliográficas desta Unidade Curricular (cf. [Ficha Curricular](https://docs.google.com/document/d/1RZDl0Nfi6mycDynmVgwBAut_lqBf9s7sF1PiAQs7gMo/edit))
+**Nota**: A consulta destes slides não dispensa a leitura e estudo das Referências Bibliográficas desta Unidade Curricular (cf. [Ficha Curricular](https://docs.google.com/document/d/1fhE79-4ilop4PHRKI3yc1ZhUR9deNRZ2lC-mbpGTrB0/edit))
 
 
-Maia, 23 de Outubro de 2023
+Maia, 2 de Outubro de 2024
 
 Pedro Pimenta
