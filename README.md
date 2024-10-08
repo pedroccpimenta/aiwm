@@ -31,6 +31,11 @@ Slides utilizados nas aulas: [aiwm.pptx](./AIWM.pptx)
 **Nota**: A consulta destes slides não dispensa a leitura e estudo das Referências Bibliográficas desta Unidade Curricular (cf. [Ficha Curricular](https://docs.google.com/document/d/1fhE79-4ilop4PHRKI3yc1ZhUR9deNRZ2lC-mbpGTrB0/edit))
 
 
-Maia, 2 de Outubro de 2024
+## Leituras aconselhadas
+
+- [Good, free, fun - The simple formula that has made Duolingo a daily habit for millions](./docs/Good,%20free,%20fun%20-%20The%20simple%20formula%20that%20has%20made%20Duolingo%20a%20daily%20habit%20for%20millions.pdf)
+
+
+Maia, 8 de Outubro de 2024
 
 Pedro Pimenta
