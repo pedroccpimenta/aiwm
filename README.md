@@ -1,6 +1,6 @@
 # AIWM
 
-Este repositório suporta a Unidade Curricular´(UC) "61149 - Arquitetura de Informação para a Web e Dispositivos Móveis" da Lic. "Tecnologias de Informação, Web e Multimédia" (cf. [Tecnologias de Informação, Web e Multimédia](https://www.ipmaia.pt/pt/ensino/oferta-formativa/licenciaturas/tecnologias-informacao-web-multimedia)).
+Este repositório suporta a Unidade Curricular (UC) "61149 - Arquitetura de Informação para a Web e Dispositivos Móveis" da Lic. "Tecnologias de Informação, Web e Multimédia" (cf. [Tecnologias de Informação, Web e Multimédia](https://www.ipmaia.pt/pt/ensino/oferta-formativa/licenciaturas/tecnologias-informacao-web-multimedia)).
 
 
 ## Ficha Curricular
